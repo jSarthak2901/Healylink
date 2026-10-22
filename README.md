@@ -1,4 +1,4 @@
-# Med-Find-HealyLink  
+# HealyLink  
 Intelligent Patient Management and Therapy Scheduling System  
 
 Developed as part of a Cosmohack1 by Team CodeX  
