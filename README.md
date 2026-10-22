@@ -96,13 +96,6 @@ The system follows a structured workflow:
 
 ---
 
-## Deployment
-
-Access the deployed application:  
-https://lovable.dev/projects/f74e5957-d5bb-4630-8f9f-a2f40f4f1a59  
-
----
-
 ## Demo and Presentation
 
 Presentation (PPT):  
